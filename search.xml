@@ -18,4 +18,34 @@
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>我的第一个博客</title>
+    <url>/2021/11/06/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<h1 id="测试文章"><a href="#测试文章" class="headerlink" title="测试文章"></a>测试文章</h1><h2 id="我的第一篇测试文章"><a href="#我的第一篇测试文章" class="headerlink" title="我的第一篇测试文章"></a>我的第一篇测试文章</h2><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//粗体</span></span><br><span class="line">**你好**</span><br><span class="line"><span class="comment">//斜体</span></span><br><span class="line">*你好*</span><br><span class="line"><span class="comment">//删除线</span></span><br><span class="line">~~删除~~</span><br></pre></td></tr></table></figure>
+
+<p>1.*<em>你好</em></p>
+<p>2.<strong>你好</strong></p>
+<p>3.<del>删除线</del></p>
+<h2 id="第二个"><a href="#第二个" class="headerlink" title="第二个"></a>第二个</h2><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//引用</span></span><br><span class="line">&gt; 引用</span><br><span class="line">&gt;&gt; 二级引用</span><br><span class="line">&gt;&gt;&gt; 三级引用</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>引用</p>
+<blockquote>
+<p>二级引用</p>
+<blockquote>
+<p>三级引用</p>
+</blockquote>
+</blockquote>
+</blockquote>
+<h2 id="第三个"><a href="#第三个" class="headerlink" title="第三个"></a>第三个</h2><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//分割线（长度可以自己确定）</span></span><br><span class="line">---</span><br><span class="line"><span class="comment">//分割线（全屏的）</span></span><br><span class="line">***</span><br></pre></td></tr></table></figure>
+
+<h3 id="例子"><a href="#例子" class="headerlink" title="例子"></a>例子</h3><hr>
+<hr>
+<h2 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h2><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//图片的插入</span></span><br><span class="line">![图片的名称](图片的地址-可以是本地的也可以是网络的)</span><br></pre></td></tr></table></figure>
+
+<h3 id="本地图片"><a href="#本地图片" class="headerlink" title="本地图片"></a>本地图片</h3>]]></content>
+      <tags>
+        <tag>tags</tag>
+      </tags>
+  </entry>
 </search>
